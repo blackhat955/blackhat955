@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Tiwari</h1>
-<h3 align="center">A passionate computer science student from India</h3>
+<h3 align="center">A passionate IT student from India and AI&ML Enthusiasts </h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blackhat955&color=blueviolet&style=flat">
