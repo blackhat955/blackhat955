@@ -48,12 +48,10 @@
 </a>
 </p>
 
-
-<!--here I add-->
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=blackhat955&theme=dracula&bg_color=ffffff00&color=878787&line=296dda&point=ffffff00&area=true&hide_border=true">
 </p>
-<!--here I add-->
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
