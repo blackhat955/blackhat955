@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently learning **React.js, Express, Flutter, etc.**
+- 🌱 I’m currently learning **React.js, Express, Flutter,Node.js etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/blackhat955)
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **vivek.p9737@gmail.com**
+- 📫 How to reach me **durgesh.tiw98@gmail.com**
 
 
 	
@@ -25,11 +25,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
