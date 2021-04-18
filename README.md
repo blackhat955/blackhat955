@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from India</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek9patel&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=blackhat955&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **React.js, Express, Flutter,Node.js etc.**
