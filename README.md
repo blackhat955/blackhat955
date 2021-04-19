@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://github.com/blackhat955/blackhat955/blob/main/img/Hi.gif" width="29px">, I'm Durgesh Tiwari
+  Hi <img src="https://github.com/blackhat955/blackhat955/blob/main/wave/wave.gif" width="29px">, I'm Durgesh Tiwari
 </h1>
 
 <h3 align="center">A passionate IT student from India and AI&ML Enthusiasts </h3>
