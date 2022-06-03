@@ -1,6 +1,4 @@
-<h4 align="center">
-  Hi guy's<img src="https://github.com/blackhat955/blackhat955/blob/main/wave/wave.gif" width="5px">, I'm Durgesh Tiwari
-</h1>
+<h3 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Durgesh Tiwari </h3>
 
 <h3 align="center">A passionate IT student from India and AI&ML Enthusiasts </h3>
 	
