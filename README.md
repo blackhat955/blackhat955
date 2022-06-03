@@ -1,4 +1,4 @@
-<h1 align="center">
+<h4 align="center">
   Hi guy's<img src="https://github.com/blackhat955/blackhat955/blob/main/wave/wave.gif" width="5px">, I'm Durgesh Tiwari
 </h1>
 
