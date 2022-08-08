@@ -62,4 +62,16 @@
 <a href="https://twitter.com/Durgesh44017731"><img src="https://img.shields.io/badge/-@Durgesh44017731-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="vivek9patel" /></p> -->
+### &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1569381018/6481/heart-8bit-1.gif?1569381018" width="28" /> Remember</h3>
+
+```
+  _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
+ | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
+ | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
+ |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
+                                         |___/
+```
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=blackhat955" />
+</p>
 
