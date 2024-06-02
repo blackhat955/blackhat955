@@ -50,9 +50,6 @@
 </p>
 
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=blackhat955&bg_color=1d3557&color=80ffdb&line=80ffdb&point=98f5e1&area=true&hide_border=true)](https://github.com/blackhat955/github-readme-activity-graph)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
