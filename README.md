@@ -58,11 +58,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=blackhat955&theme=react-dark" alt="GitHub Contribution Graph" />
-  </a>
-</p>
+[![Durgesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blackhat955&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
