@@ -91,7 +91,7 @@
 
 ### 💖 Support Me
 If you like my work, consider buying me a coffee!  
-<a href="https://www.buymeacoffee.com/blackhat955" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+<a href="https://buymeacoffee.com/durgeshtiwari" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 
 ---
 
