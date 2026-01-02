@@ -58,11 +58,12 @@
   </a>
 </p>
 
-[![Durgesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blackhat955&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Durgesh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=blackhat955&theme=material-palenight)](https://github.com/blackhat955/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=blackhat955&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=blackhat955&theme=matrix&no-frame=true&row=1" alt="GitHub Trophies" />
+    
   </a>
 </p>
 
